@@ -131,3 +131,5 @@ dmypy.json
 # Nile compilation
 **/node.json
 **/artifacts/
+
+.history/
